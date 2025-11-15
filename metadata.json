@@ -1,0 +1,5 @@
+{
+  "name": "حسابداری",
+  "description": "A simple application for recording transactions and calculating profit. Enter the product type, weight, purchase and selling price to calculate your profit.",
+  "requestFramePermissions": []
+}
